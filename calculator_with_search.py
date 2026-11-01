@@ -1,3 +1,8 @@
+# Korbin Awender
+# CSCI 130
+# calculator_with_search.py
+# 10/31/2026
+
 def calculate(first_number, operator, second_number):
 	if operator == "+":
 		return first_number + second_number
